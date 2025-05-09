@@ -98,4 +98,5 @@ MIT License. See LICENSE for details.
 
 - Glance Widgets (if using Jetpack Glance)
 
+---
 Made with ❤️ by Anshuman
