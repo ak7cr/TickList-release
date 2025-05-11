@@ -77,7 +77,7 @@ TickList/
 
 - Try marking tasks done, editing, and deleting.
 
-## 📌 TODO
+## 📌 TO-DO
 - Add task reminders with alarms
 
 - Sync with cloud using Firebase
